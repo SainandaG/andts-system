@@ -1,1 +1,16 @@
-
+fastapi
+uvicorn
+pydantic
+python-dotenv
+SQLAlchemy
+psycopg2
+redis
+neo4j
+httpx
+opencv-python
+python-multipart
+numpy
+scikit-learn
+pillow
+pytest
+pytest-asyncio
